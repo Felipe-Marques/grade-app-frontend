@@ -8,12 +8,12 @@ const get = (id) => {
   return http.get(`/grade/${id}`);
 };
 
-const create = (data) => {
-  return http.post('/grade', data);
+const create = (student) => {
+  return http.post('/grade', student);
 };
 
-const update = (id, data) => {
-  return http.patch(`/grade/${id}`, data);
+const update = (id, student) => {
+  return http.patch(`/grade/${id}`, student);
 };
 
 const remove = (id) => {
