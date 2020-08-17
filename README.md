@@ -13,7 +13,7 @@ Aluno: Felipe Marques.
 
 - Exercitar os conceitos trabalhados no módulo para a criação de um modelo de
   dados com o mongoose.<br>
-- Praticar os conceitos de versionamento de código e implantação pelo Heroku.<br>
+- Praticar os conceitos de versionamento de código e implementação do deploy no Heroku.<br>
 
 ## Imagem do Projeto
 
